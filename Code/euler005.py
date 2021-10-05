@@ -1,4 +1,4 @@
-# Project Euler 5: LCM
+# Project Euler 5: Smallest multiple
 # Dated: 2021-09-29
 
 import sys
