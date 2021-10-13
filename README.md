@@ -8,4 +8,5 @@ Solution attempts to Euler problems published on Hackerrank
 5. Smallest multiple
 6. Sum square difference
 7. 10001st prime
-8. 
+8. Largest product in a series
+9. 

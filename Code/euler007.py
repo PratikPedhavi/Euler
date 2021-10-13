@@ -1,4 +1,4 @@
-# Project Euler 7: 10001th prime
+# Project Euler 7: 10001st prime
 # Dated: 2021-10-06
 
 import sys
