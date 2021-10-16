@@ -11,4 +11,5 @@ Solution attempts to Euler problems published on Hackerrank
 008. Largest product in a series
 009. Special pythagorean triplet
 010. Summation of primes
-011. 
+011. Largest product in a grid
+012. 
